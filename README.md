@@ -104,7 +104,7 @@ systemctl start allora-node
 
 You can go back to the Allora Points page and after a while see the pts per noda. 
 
-№№ Removing the Allora Validator Node
+## Removing the Allora Validator Node
 To remove the Allora validator node, run this playbook:
 
 ```
